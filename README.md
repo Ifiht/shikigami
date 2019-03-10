@@ -1,6 +1,9 @@
-# 🎐 ClShikigamiikigami
+# :bookmark: Shikigami
 
-A scrapbook for my current knowledge of leiningen & clojure.
+Personal assistant, knowledge repository, and logical association builder.
+
+Status:
+Implementing TTS.
 
 Built to be accessed through ```lein repl```
 
