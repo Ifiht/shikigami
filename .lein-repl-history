@@ -1,0 +1,22 @@
+(define atoms)
+(help)
+exit
+(help)
+exit
+(rr)
+(:reload-all)
+(use 'clj-omnibus :reload-all)
+(rr)
+(use 'clj-omnibus :reload-all)
+(rr)
+help
+(help)
+(rr)
+(help)
+(rr)
+(help)
+(rr)
+(help)
+(rr)
+(help)
+exit
