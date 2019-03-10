@@ -1,4 +1,4 @@
-# :blue_book: Clojure Omnibus
+# 🎐 ClShikigamiikigami
 
 A scrapbook for my current knowledge of leiningen & clojure.
 
