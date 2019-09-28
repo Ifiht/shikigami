@@ -27,4 +27,3 @@ Available options are:
 ;=====================~ Java Interop ~===========================;
 '(. object-expr-or-classname-symbol method-or-member-symbol optional-args*)
 ; e.g. (. Math abs -5)
-; ctr-alt-c, ctr-alt-j for Calva launch
