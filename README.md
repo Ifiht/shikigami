@@ -18,12 +18,12 @@ Built to be accessed through ```lein repl```
 ├── project.clj
 ├── resources
 ├── src
-│   └── hello_world
+│   └── shikigami
 │       └── core.clj
 ├── target
 │   └── default
 └── test
-    └── hello_world
+    └── shikigami
         └── core_test.clj
 ```
 
